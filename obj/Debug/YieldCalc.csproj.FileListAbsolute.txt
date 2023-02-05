@@ -1,0 +1,8 @@
+C:\Users\spark\source\repos\YieldCalc\bin\Debug\YieldCalc.exe.config
+C:\Users\spark\source\repos\YieldCalc\bin\Debug\YieldCalc.exe
+C:\Users\spark\source\repos\YieldCalc\bin\Debug\YieldCalc.pdb
+C:\Users\spark\source\repos\YieldCalc\obj\Debug\YieldCalc.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\YieldCalc\obj\Debug\YieldCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\YieldCalc\obj\Debug\YieldCalc.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\YieldCalc\obj\Debug\YieldCalc.exe
+C:\Users\spark\source\repos\YieldCalc\obj\Debug\YieldCalc.pdb
